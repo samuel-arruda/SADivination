@@ -1,2 +1,2 @@
 # SADivination
-Foi feito, usando a linguagem Python, um programa, onde o computador armazena um número inteiro de 0 á 10. O usuário recebe o desafio de digitar qual número (de 0 - 10) o computador armazenou.
+Projeto de um jogo, onde atravez do uso da biblioteca random, o sistema escolhe um numero de zero a dez. Após é solicitado ao usuario adivinhar qual número, de zero a dez, foi escolhido pelo sitema. 
